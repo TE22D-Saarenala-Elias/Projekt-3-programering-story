@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projekt 3 programering story/1.0.0": {
+        "runtime": {
+          "Projekt 3 programering story.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt 3 programering story/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

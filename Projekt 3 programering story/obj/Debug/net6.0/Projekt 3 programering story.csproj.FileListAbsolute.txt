@@ -1,0 +1,15 @@
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.csproj.AssemblyReference.cache
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.AssemblyInfoInputs.cache
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.AssemblyInfo.cs
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.csproj.CoreCompileInputs.cache
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\bin\Debug\net6.0\Projekt 3 programering story.exe
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\bin\Debug\net6.0\Projekt 3 programering story.deps.json
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\bin\Debug\net6.0\Projekt 3 programering story.runtimeconfig.json
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\bin\Debug\net6.0\Projekt 3 programering story.dll
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\bin\Debug\net6.0\Projekt 3 programering story.pdb
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.dll
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\refint\Projekt 3 programering story.dll
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.pdb
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\Projekt 3 programering story.genruntimeconfig.cache
+C:\Users\elias.saarenala\programmering med Micke\Projekt 3 programering story\Projekt 3 programering story\obj\Debug\net6.0\ref\Projekt 3 programering story.dll
